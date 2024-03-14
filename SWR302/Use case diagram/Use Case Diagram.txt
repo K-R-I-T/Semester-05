@@ -1,0 +1,227 @@
+NHẬP MÔN USE CASE DIAGRAM (Mô hình (về) tình huống sử dụng (App của người dung))
+
+1. KHÁI NIỆM VỀ DIAGRAM - SƠ ĐỒ TRON QUÁ TRÌNH LÀM PHẦN MỀM
+
+SO SÁNH VIỆC LÀM PHẦN MỀM 		vs.		XÂY DỰNG 1 NGÔI NHÀ
+							
+BA/PO làm việc với khách hàng (gã			Kiến trúc sư làm việc với
+đặt hàng làm app)					gia chủ
+- Yêu cầu phần mềm - Soft Reqs				- Requirements/ yêu cầu chủ nhà
+- Thiết kế để hình dung/ làm sau này			- Design/ thiết kế để hình dung
+							căn nhà sẽ thi công sau này
+							
+> BẢN VẼ USE CASE (USE CASE DIAGRAM)			> BẢN VẼ PHỐI CẢNH:
+- cảm nhận về tính năng, chức năng app sẽ đem		  - cảm nhận sơ bộ về căn nhà
+lại cho user/người dùng					  - công năng sử dụng (phòng
+- hình dung về app, sản phẩm sẽ làm 			  khách, ngủ, gara...), màu
+
+> BẢN VẼ (KẾT CẤU) CLASS DIAGRAM			> BẢN VẼ KẾT CẤU CĂN NHÀ
+- căn phòng chứa info (id, name, yob,...)		- kết cầu về kích thước móng
+							phòng, cột, khẩu độ, cao độ
+BẢN VẼ (KẾT CẤU) ERD/PHYSICAL DATABASE 			
+
+> BẢN VẼ "ĐỘNG/XỬ LÍ" VẬN HÀNH TRONG APP		> BẢN VẼ "ĐỘNG" TRONG CĂN NHÀ
+BẢN VẼ ACTIVITY DIAGRAM					- PHONG THỦY - gió nước trong nhà
+BẢN VẼ SEQUENCE DIAGRAM					- BẢN VẼ ĐIỆN NƯỚC
+BẢN VẼ STATE MACHINE DIAGRAM
+App phải run; run tức là gọi method/hàm/hành
+động giữa các object (OOP)
+> ...							> BẢN VẼ...
+
+2. UML (UNIFIED MODELING LANGUAGE - MÔ HÌNH NGÔN NGỮ THỐNG NHẤT) VÀ 4 + 1 VIEW
+- KHI LÀM PHẦN MỀM, ĐỪNG CHỈ NGHĨ NGAY ĐẾN VIẾT CODE, MÀ
+SÓNG BẮT ĐẦU TỪ GIÓ, VIẾT APP TỪ AI ĐÓ ĐẶT HÀNG - VIẾT APP BẮT ĐẦU TỪ REQS
+- VÀ NGHĨ ĐẾN VIỆC THIẾT KẾ, PHÁC THẢO, VẼ RA NHỮNG GÓC NHÌN VỀ APP ĐỂ ĐÁNH GIÁ TRƯỚC TRƯỚC
+KHI VIẾT CODE: góc nhìn UI, góc nhìn DB, góc nhìn Class, kiến trúc MVC, MVC2, Micro
+Services, API
+
+- VẬY VẼ BAO NHIÊU LOẠI MÔ HÌNH LÀ ĐỦ??? CÁC CTY LOẠN LẠC TRONG VIỆC DÙNG CÁC LOẠI MÔ HÌNH
+KHÁC NHAU, HỌP BÀN, VÀ RA NGHỊ QUYẾT, THỐNG NHẤT VÕ LÂM, THỐNG NHẤT CÁC TRƯỜNG PHÁI VẼ HÌNH
+THIẾT KẾ PHẦN MỀM -> UML RA ĐỜI GỒM HƠN 10 LOẠI SƠ ĐỒ KHÁC NHAU; DÙNG ĐỂ MÔ TẢ TOÀN BỘ
+GÓC NHÌN VỀ APP
+
+KỂ TỪ NGÀY ĐÓ, GIANG HỒ KHI LÀM APPP DÙNG UML ĐỂ VẼ THIẾT KẾ APP (KO CÓ UI) - NHÌN APP TỪ
+NGOÀI (USE CASE) ĐẾN TÍT BÊN TRONG (CLASS, CLASS GỌI NHAU RA SAO, PACKAGE/NAME SPACE)
+
+GOM NHÓM CÁC SƠ ĐỒ NÀY THÀNH 4 + 1 VIEW
+LÀ CÁCH TA NHÌN CÁI APP THEO 5 KHUNG NHÌN KHÁC NHAU (GÓC NHÌN THỨ 1, THỨ 2)
+
+3. USE CASE DIAGRAM
+==================================================
+USE CASE DIAGRAM
+
+I. ĐỊNH NGHĨA
+- Là sơ đồ liệt kê các tính năng của phần mềm sẽ làm cho khách hàng
+Tính năng: - TÊN của các màn hình mà khi xài màn hình này, giup user làm được 1 việc gì đó
+- Là sơ đồ LIỆT KÊ các chức năng, functional reqs, user stories
+- Là sơ đồ LIỆT KÊ các chức năng, và các user - (GỌI TÊN MỚI LÀ ACTOR) và sự tương tác giữa USER và TÍNH NĂNG
+- Là sơ đồ LIỆT KÊ XEM AI (USER) DÙNG TÍNH NĂNG GÌ (CỦA APP)
+CÁCH HÀNH XỬ CỦA NGƯỜI DÙNG VỚI APP - TUI XÀI TÍNH NĂNG GÌ - USER BEHAVIOUR
+
+[NẾU KO VẼ UCD THÌ TA LIỆT KÊ CÁC CHỨC NĂNG, TÍNH NĂNG, TÊN MÀN HÌNH TRÊN GIẤY
+KIỂU GẠCH ĐẦU DÒNG]
+
+II. CÁC THÀNH PHẦN TẠO NÊN SƠ ĐỒ USE CASE (UCD)
+
+1. SYSTEM BOUNDARY
+- Là 1 hình chữ nhật, có tên app ở phía trên cùng biểu diễn giới của app
+khoanh vùng đâu là app (có tính năng) và đâu là bên ngoài app - môi trường bên
+ngoài, nó sẽ làm nổi bật lên khái niệm: user tương tác với app
+- Dùng để xác định scope bài toán!!! NHỮNG TÍNH NĂNG SẼ ĐƯỢC CUNG CẤP CHO USER
+- BÊN TRONG HÌNH CHỮ NHẬT LÀ CÁC TÍNH NĂNG/TÊN CÁC MÀN HÌNH MÀ USER SẼ CHẠM XÀI
+- MUỐN APP LÀM GÌ, HỨA RẰNG APP SẼ LÀM GÌ, THÌ CÁI HỨA ĐÓ PHẢI VẼ TRONG HCN
+- Bên ngoài HCM là môi trường của Actor tác động vào app, xài tính năng app
+
+2. ACTOR - TÁC NHÂN - NHÂN TỐ TÁC ĐỘNG VÀO APP, VÀO TÍNH NĂNG ĐỂ TÍNH NĂNG RUN
+* LÀ NGƯỜI DÙNG, GÃ SẼ XÀI APP, ĐỨNG BÊN NGOÀI APP/BÊN NGOÀI BOUNDARY
+
+* LÀ MỘT APP KHÁC!!! MÀ CÓ TƯƠNG TÁC VỚI APP CHÚNG TA (HCN) THEO KIỂU GỬI/NHẬN INFO
+
+* LÀ 1 THIẾT BỊ/DEVICE KHÁC MÀ CÓ TƯƠNG TÁC VỚI APP CHÚNG TA (HCN) THEO KIỂU
+GỬI/NHẬN INFO
+
+* LÀ 1 CON CRON/TIẾN TRÌNH KHIẾN APP CHẠY TỰ ĐỘNG THEO KHUNG GIỜ, THEO NGƯỠNG DATA NÀO ĐÓ
+
+>>>> CÚ PHÁP ĐẶT TÊN ACTOR: NOUN - DANH TỪ
+NẾU LÀ NGƯỜI DÙNG/CON NGƯỜI XÀI APP
+THÌ ĐẶT TÊN ACTOR THEO ROLE, KO THEO TÊN CỦA CÁ NHÂN CỤ THỂ
+>>>> KÍ HIỆU HÌNH NGƯỜI QUE
+
+> Ví dụ: App FAP có tui, bạn An, Bình, Cường, Lan, Hồng, Huệ, Mơ, Mận, Đào
+		tui -> Hoàng Ngọc Trinh
+	Actor với FAP thì sẽ là: LECTURER (GV)
+		FAP thì sẽ là: Student
+
+>>>>>>> GHI CHÚ CHO ACTOR MÀ LÀ CON NGƯỜI (NÓI THEO ROLE)
+- Nhìn ở góc nhìn data trong app sau này, thì có 2 loại user
+
+USER THƯỜNG: CẦN UI ĐẸP LUNG LINH; ĐÔNG NHƯNG ÍT CÓ QUYỀN CRUD DATA
+					(Create/Retieve (Read), Update, Delete)
+		ĐEM LẠI DOANH THU CHO APP
+
+		> student, lecturer
+
+USER QUẢN TRỊ: HẬU TRƯỜNG, UI KO CẦN LUNG LINH, ÍT, NHƯNG CÓ QUYỀN SINH SÁT
+		DATA, CRUD MẠNH, TẠO DATA SẴN DÙNG CHO USER THƯỜNG
+		> admin, academic staff, chủ-shop, chủ-sàn
+
+III. USE CASE - TÌNH HUỐNG SỬ DỤNG APP/XÀI APP
+- Tên gọi của 1 tính năng mà app sẽ cung cấp cho actor/user/người dùng
+- Tên gọi của 1 màn hình mà sẽ làm điều gì đó, xử lí điều gì đó cho user
+- Tên gọi của 1 functional req, user story
+
+* KÍ HIỆU: HÌNH ELIP, OVAL
+* CÚ PHÁP: VERB + OBJECT, TÍNH NĂNG LÀ HÀNH ĐỘNG, NÊN PHẢI LÀ ĐỘNG TỪ
+		CẤM TUYỆT ĐỐI TRONG SƠ ĐỒ CÓ USE CASE TRÙNG TÊN NHAU!!!
+		(trùng UC chính alf trùng tính năng)
+		1 UC CÓ THỂ ĐC NHIỀU ACTOR NHÀO VÀO DÙNG, 1 TÍNH NĂNG CÓ THỂ HỖ TRỢ
+		CHO N USER
+
+IV, RELATIONSHOP/LINK - NÉT NỐI, MỐI QUAN HỆ GIỮA 2 THÀNH PHẦN Ở TRÊN
+(ACTOR, USE CASE)
+
+1. ASSOCIATION
+- nét nối thẳng, nối giữa Actor và Use Case hàm ý rằng user X xài tính năng Y
+- xài: gửi/nhập info vào app, hoặc nhận info từ app (direct user và indirect user)
+
+2. GENERALIZATION - KẾ THỪA - IS A, TAM GIÁC RỖNG -------------------- > 
+* DÙNG ĐỂ NỐI GIỮA ACTOR VỚI ACTOR ĐỂ NÓI RẰNG CÁC ACTOR CÓ DÙNG CHUNG 1 CỤM TÍNH NĂNG NÀO ĐÓ
+TA ĐẶT RA ACTOR CHA, ACTOR CON ĐỂ KÉO GIẢM SỐ NÉT NỐI VÀO TRONG USE CASE
+"TAO XÀI ĐC 5 TÍNH NĂNG NHƯ MÀY, VÀ CÒN HƠN THẾ NỮA"
+	TAO KẾ THỪA MÀY -----------|> MÀY
+	>>>>> TUI, ÔNG, BẠN CHIA SẼ CHỨC NĂNG
+
+* KẾ THỪA CÒN ĐC DÙNG GIỮA CÁC USE CASE VỚI NHAU!!! KHI GIỮA CÁC USE CASE VỚI NHAU LẠI ĐỌC ĐC
+CÂU IS A 1 CHIỀU
+KẾ THỪA GIỮA CÁC USE CASE MANG Ý NGHĨA: GOM CỤM TÍNH NĂNG, NHỮNG TÍNH NĂNG SHARE ĐIỂM
+CHUNG/HAY CÙNG THAO TÁC TRÊN CÁC OBJECT (thêm xóa sửa timetable)
+HAY DÙNG ĐỂ LÀM MENU PHẦN ADMIN
+
+CÔNG THỨC CHO ĐÁM USE CASE SHARE CHUNG INFO/OBJECT/MỤC ĐÍCH
+MANAGE X
+	<|------------ CRUD X
+	<|------------ (Create)
+	<|------------ (Update)
+	<|------------ (Delete)
+	<|------------ ...
+>>>>> GOM NHÓM CHỨC NĂNG, TẠO MENU ADMIN
+
+3. INCLUDE: ~ #include bên C, import Java, using C#
+- SỰ PHỤ THUỘC GIỮA 2 USE CASE, PHỤ THUỘC CỰC KÌ CHẶT CHẼ, SỐNG CÒN
+- Actor----------------(Base Use/UC chính)-----------<<include>> (inclusion/included UC)
+- <<include>> đọc từ gốc mũi tên, gốc mũi tên là UC chính. Ngọn chính là dependency, thứ cần để
+hoàn tất Base/UC chính
+
+-BASE MUỐN HOÀN TẤT, MUỐN XONG, BẮT BUỘC PHẢI CÓ INCLUDED ĐƯA VÀO
+"Nhảy mũi" muốn xong thành công ko thể thiếu "Nhắm mắt" - PHỤ THUỘC SIÊU CHẶT CHẼ VỀ VÒNG ĐỜI TẠI
+
+4. EXTEND: switch case, option
+- SỰ PHỤ THUỘC GIỮA 2 USE CASE, PHỤ THUỘC LỎNG LẺO, TỒN TẠI ĐỘC LẬP
+- Actor -------- (Base Use Case/UC chính/Extended) -------------- <<extend>>---------(Extending)
+
+- <<extend>> đọc từ NGỌN mũi tên, NGỌN MŨI TÊN LÀ UC CHÍNH, GỐC MŨI TÊN LÀ THẰNG LỎNG LẺO, PLUGIN
+OPTION, THỨ CẮM VÀO HỖ TRỢ, KO CÓ CHẲNG SAO
+KO CẦN EXTENDING, BASE VẪN LO XONG VIỆC, 2 THẰNG ĐỘC LẬP
+"Nhảy mũi thành công" không thèm xin lỗi, có thể xin lỗi!!!
+BASE HOÀN TẤT MÀ CHẲNG CẦN EXTENDING CX ĐC
+
+=====================================================================
+NGOẠI TRUYỆN 1: GIỮA CÁC ACTOR XÀI CHUNG TÍNH NĂNG
+- nét tam giác rỗng hướng từ con về cha
+- Con ---------------------> Cha
+	generalization
+"Con làm đc tất cả những gì cha đang làm, và còn hơn thế nữa"
+			inherit 		khác Cha - extends (Java)
+
+- MUỐN CHƠI KẾ THỪA, TA TÌM MỘT LIÊN HỆ GIỮA CÁC OBJECT, VÀ ĐỌC ĐC CÂU "IS - A" 1 CHIỀU
+ Dog is a kind of Pet				Dog -----------> Pet
+ Cat is a kind of Pet				Cat -----------> Pet
+						Chó Mèo là dạng Pet, Pet là chung chung hơn - generalization
+									Cat, Dog cụ thể hơn
+ >>>>> Đọc 1 chiều, ko đọc chiều ngược lại
+HV là 1 dạng HCN, đọc ngược lại gẫy	HV ---------------> HCN
+
+KẾ THỪA -> GOM KHÁI NIỆM CHUNG CHUNG VỀ CHA - GENERALIZATION, IS A 1 CHIỀU
+
+-Student làm đc: login, manage profile, view timetable, view attendance, feedback, read news
+-Lecturer làm đc: login, manage profile, view timetable, view attendance
+-A.Staff làm đc: login, manage profile, view timetable, view attendance, create timetable, open class
+
+	REGISTERED USER làm đc login, manage porfile , view timetable, view attendacne
+	user có account thì phải làm đc (nhân tử chung)
+		STUDENT: [feedback, readnews...]
+		LECTURER: [check attendance...]
+		A.STAFF: [create timetable, open class...]
+
+========================================================================
+NGOẠI TRUYỆN 2: GIỮA CÁC USE CASE MÀ LẠI ĐỌC ĐC CÂU IS A 1 CHIỀU
+
+Ví dụ 1: TAO ĐI GIAO DỊCH Ở NGÂN HÀNG
+- Tao đi đóng cái tài khoản
+- Tao đi mở cái tài khoản
+- Tao đi chuyển tiền				ĐỀU LÀ 1 DẠNG GIAO DỊCH NGÂN HÀNG
+- Tao đi cập nhật thông tin tài khoản		TỔNG QUÁT CHO ĐÁM CỤ THỂ BÊN KIA, TỔNG QUÁT/CHA/GENERALIZATION
+- Tao đi tra soát giao dịch
+
+KẾ THỪA: LÀ SỰ PHÂN LOẠI, GOM NHÓM (IS A 1 CHIỀU)
+- (Close account)
+- (Open a new account)
+- (Transfer money)		--------------------------------|> (Make bank transaction)
+- (Update account info)
+- (Check balance)
+
+- (View timetable)
+- (Update timetable)
+- (Create timetable)		---------------------------------|> (Manage timetable)
+- (Close timetable)
+	4 công việc nhỏ lẻ đều có liên quan đến timetable -> gọi chung là QUẢN LÍ THỜI KHÓA BIỂU
+						QUẢN LÍ TKB ĐẠI DIỆN CHO CẢ ĐÁM DETAIL BÊN TRÁI
+							IS A KIND OF
+
+
+
+
+
+
+
+
