@@ -1,0 +1,226 @@
+ĐÀO - PHỞ - PIANO
+DATA TYPE - VALUE - VARIABLE
+
+I. NGỮ PHÁP TIẾNG VIỆT
+1. DANH TỪ: TỪ ĐỊNH DANH/TỪ DÙNG ĐỂ GỌI TÊN/ĐẶT TÊN CHO 1 SỰ VẬT VÀ HIỆN TƯỢNG
+2. DANH TỪ CHUNG: Xe hơi, Điện thoại, Xe máy, Thực phẩm, Món đồ, Thức uống, Con người, Cờ hó
+		  Car	  Phone	      Motor   Food	 Product Drink	    Person     Dog
+		  >>>>>> Từ đại diện cho 1 nhóm các thứ gì đó/thing tương đồng
+		  
+3. DANH TỪ RIÊNG: Cái điện thoại của Tui -> Là điện thoại, cụ thể hữu hình, thuộc ai đó
+		  Cái điện thoại của Bạn -> Là điện thoại, cụ thể hữu hình, thuộc ai đó khác
+		  Con Exciter đi bắt cờ-hó của Tui	   -> cụ thể rồi, thuộc về ai đó
+		  Con Winner đi bắt cá của Đen Vâu
+		  Ly trà sữa của Tui
+
+		  Bạn Nguyễn Văn Hiếu, Hiếu, Tèo -> 1 Person/Con người cụ thể
+		      Trần Quốc Bảo,   Bảo, Tí   -> 1 Person/Con người cụ thể
+
+		  >>>>>> Từ đại diện cho 1 cái gì đó cụ thể (dĩ nhiên thuộc nhóm nào) !!!!!!!!!!!!!!!!!!!!!!!!
+
+II. DATA TYPE - VALUE - VARIABLE
+0. THING
+- MỌI THỨ QUANH TA - THINGS ĐƯỢC DIỄN TẢ/MÔ TẢ QUA 2 HÌNH THỨC/ĐỊNH DẠNG/FORMAT: ĐƠN GIẢN VÀ PHỨC TẠP
+
+1. THỨ ĐƠN GIẢN - SINGLE VALUE, SIMPLE VALUE
+* ĐỊNH NGHĨA:
+- LÀ NHỮNG ĐẠI LƯỢNG, NHỮNG GIÁ TRỊ ĐƠN GIẢN TRONG VIỆC VIẾT RA, KO CẦN CÂU CHỮ DÀI DÒNG!!!, ĐƠN GIÁ TRỊ, DÙNG ĐỂ ĐO LƯỜNG GÌ ĐÓ
+
+* VÍ DỤ:
+   -273 1 2 3 10 0.8 (8%) 10% 9.8 300.000 24.000.000 70.000.000 2024 2003 ĐÚNG/SAI, TỐT/XẤU
+
+2. THỨ PHỨC TẠP - COMPLEX VALUE, COMPOSITE VALUE, OBJECT VALUE, [STRUCTURE VALUE]
+				GIÁ TRỊ PHỨC HỢP - NHIỀU THÀNH PHẦN ĐƠN LẺ GOM LẠI, HỢP THÀNH
+				ĐC CẤU THÀNH, CẤU TẠO BỞI NHỮNG THỨ ĐƠN GIẢN Ở NHÓM TRÊN
+* ĐỊNH NGHĨA: LÀ NHỮNG THỨ, ĐỂ MÔ TẢ VỀ THỨ NÀY SẼ VIẾT RA CẦN NHIỀU CÂU CHỮ, NÓ CÓ NHIỀU
+	      INFO NÓ CÓ BÊN TRONG NHIỀU GIÁ TRỊ KHÁC ĐỂ HỢP THÀNH 1 THỨ PHỨC TẠP HƠN, 1
+	      ENTITY OBJECT
+* VÍ DỤ: 
+
+{NGUYỄN THANH TÙNG, 1994, THÁI BÌNH, HẢI TÚ/THIỀU BẢO TRÂM, CHÚNG TA CỦA SAU NÀY...}
+{NGUYỄN THÙY CHI, 1993, HÀ NỘI, ANH ƠI ANH Ở LẠI...}
+{HOÀNG THÙY LINH, 199X, HÀ NỘI, ĐỂ MỴ NÓI CHO MÀ NGHE...}
+{TAYLOR SWIFT, 199X, US, CAROLLINA...}
+{LISA..., 200X, THAILAND, ...}
+
+{PELE...., 192X, BRAZIL, 17XX GOALS}
+{LEONARDO MESSI...., 1994, ARGENTINA, 8XX GOALS...}
+{CHRISTIANO RONALDO...., 1993, PORTUGAL, 7XX GOALS...}
+
+3. QUẢN LÍ CÁC THỨ PHỨC TẠP/ĐƠN GIẢN QUANH TA - CON NGƯỜI QUẢN LÍ INFO QUANH HỌ RA SAO???
+>>>>> CHIA NHÓM - ĐẶT TÊN NHÓM CHO NHIỀU THỨ QUANH HỌ >>>>>>>>>>>>>>>>>>>>>>>>>
+      CON NGƯỜI ĐẶT TÊN CHO CÁC NHÓM, 
+      CON NGƯỜI PHÂN NHÓM CÁC THỨ QUANH HỌ, CHIA NHÓM CÁC THỨ QUANH HỌ, ĐẶT TÊN CHO NHỮNG NHÓM HỌ 
+      VỪA CHIA. CHIA NHÓM TÙY THEO CÁC TIÊU CHÍ DO HỌ ĐỊNH NGHĨA RA
+      
+      CLASSIFY, CATEFORIZE, GROUP
+
+	-273 1 2 3 10 0.8 (8%) 10% 9.8 300.000 24.000.000 70.000.000 2024 2003 ĐÚNG/SAI, TỐT/XẤU
+
+-273 1 2 3 10 0.8 (8%) 10% 9.8 300.000 24.000.000 70.000.000 2024 2003: CON SỐ THỰC
+
+-273 1 2 3 10 300.000 24.000.000 70.000.000 2024 2003: NGUYÊN CON, KO LẺ MIẾN, THE WHOLE NUMBER
+						       int, long, Integer, Long
+
+0.8 (8%) 10% 9.8: ko nguyên con, bị lẻ miếng, số thực: float, double, decimal
+
+đúng/sai, tốt xấu, thành công/thất bại: 2 trạng thái đối lập: boolean, bool
+
+* ĐẶT TÊN NHÓM CHO 1 ĐÁM sDỮ LIỆU/VALUE, CHÍNH LÀ TÌM DANH TỪ CHUNG GỌI CHUNG TÊN 1 NHÓM
+  TÌM RA ĐƯỢC TÊN CHUNG - GỌI LÀ DATA TYPE - KIỂU DỮ LIỆU
+
+* DATA TYPE: LÀ TÊN GỌI CHUNG CHO 1 ĐÁM DỮ LIỆU/VALUE MÀ ĐÁM VALUE NÀY ĐỒNG DẠNG, TƯƠNG ĐƯƠNG NHAU VỀ Ý NGHĨA, TIÊU CHÍ XÉT DUYỆT
+
+
+
+{NGUYỄN THANH TÙNG, 1994, THÁI BÌNH, HẢI TÚ/THIỀU BẢO TRÂM, CHÚNG TA CỦA SAU NÀY...}
+{NGUYỄN THÙY CHI, 1993, HÀ NỘI, ANH ƠI ANH Ở LẠI...}
+{HOÀNG THÙY LINH, 199X, HÀ NỘI, ĐỂ MỴ NÓI CHO MÀ NGHE...}
+{TAYLOR SWIFT, 199X, US, CAROLLINA...}
+{LISA..., 200X, THAILAND, ...}
+-------------------------------------------------------> NHÓM ƯA THÍCH CA HÁT, HÁT NGON
+							 HÁT LÀ NGHỀ
+							 NHÓM Singer
+
+{PELE...., 192X, BRAZIL, 17XX GOALS}
+{LEONARDO MESSI...., 1994, ARGENTINA, 8XX GOALS...}
+{CHRISTIANO RONALDO...., 1993, PORTUGAL, 7XX GOALS...}
+-------------------------------------------------------> NHÓM ĐÁ TRÁI BANH KIẾM TIỀN
+							 Cầu thủ, Player, Footballer
+
+
+-------------------------------------------------------> Con người, Person
+
+
+* DATA TYPE: LÀ TÊN GỌI CHUNG CHO 1 ĐÁM DỮ LIỆU/VALUE MÀ ĐÁM VALUE NÀY ĐỒNG DẠNG, TƯƠNG ĐƯƠNG NHAU VỀ Ý NGHĨA, TIÊU CHÍ XÉT DUYỆT. NẾU NHÓM MÀ LÀ NHÓM PHỨC TẠP, THÌ TÊN NHÓM CÒN ĐƯỢC GỌI LÀ CLASS
+NHÓM PERSON, CLASS PERSON, NHÓM SINGER, CLASS SINGER
+
+int, long, float, double, bool, boolean, Student, Person, Dog, Cat, Player, Singer => DATA TYPE, TÊN NHÓM, DANH TỪ CHUNG. NHÓM PHỨC TẠP THÌ CÒN GỌI LÀ CLASS
+
+
+>>>>> ĐẶT TÊN GỌI CHO TỪNG THỨ QUANH HỌ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	-273 1 2 3  10   300.000 24.000.000     70.000.000    2024 2003 	int
+	  x  y z a grade  total   salary         salary (SA)  year year
+			  price   total          gold_price        dob
+			e = mc^2  price
+				  exchange_rate
+
+ 	0.8 (8%) 10% 9.8 					float/double
+	     VAT      g
+	ĐÚNG/SAI, TỐT/XẤU					bool/boolean
+
+{NGUYỄN THANH TÙNG, 1994, THÁI BÌNH, HẢI TÚ/THIỀU BẢO TRÂM, CHÚNG TA CỦA SAU NÀY...}
+	-> sếp, sky
+
+{NGUYỄN THÙY CHI, 1993, HÀ NỘI, ANH ƠI ANH Ở LẠI...}
+	-> chipu
+
+{HOÀNG THÙY LINH, 199X, HÀ NỘI, ĐỂ MỴ NÓI CHO MÀ NGHE...}
+	-> linh
+
+{TAYLOR SWIFT, 199X, US, CAROLLINA...} 	taylor
+{LISA..., 200X, THAILAND, ...}		lía
+-------------------------------------------------------> NHÓM ƯA THÍCH CA HÁT, HÁT NGON
+							 HÁT LÀ NGHỀ
+							 NHÓM Singer
+
+{PELE...., 192X, BRAZIL, 17XX GOALS}	king
+{LEONARDO MESSI...., 1994, ARGENTINA, 8XX GOALS...}	m10
+{CHRISTIANO RONALDO...., 1993, PORTUGAL, 7XX GOALS...}	cr7
+-------------------------------------------------------> NHÓM ĐÁ TRÁI BANH KIẾM TIỀN
+							 Cầu thủ, Player, Footballer
+
+> TÊN GỌI CHO NHỮNG THỨ RIÊNG LẺ QUANH MÌNH (KO NHẦM VỚI TÊN NHÓM) ĐỂ DỄ GIAO TIẾP, ĐỀ CẬP, VÍ DỤ SKY, CHIPU, M10, CR7, GIAO.LANG TA GỌI LÀ: ĐỊNH DANH ĐỐI TƯỢNG - IDENTIFY/IDENTIFIER
+						 ĐẶT TÊN CHO ĐỐI TƯỢNG, CHO TỪNG VALUE LẺ
+						 KHAI BÁO BIẾN - DANH TỪ RIÊNG!!!!!!!
+
+4. DATA TYPE - VARIABLE - VALUE
+* VALUE: NHỮNG THỨ QUANH TA (ĐƠN GIẢN, PHỨC TẠP)
+* DATA TYPE: TÊN GỌI CHUNG, DANH TỪ CHUNG, CLASS NAME CHO 1 NHÓM VALUE QUANH TA: Dog, Cat, int, long
+* VARIABLE: TÊN GỌI RIÊNG, DANH TỪ RIÊNG, TÊN BIẾN, TÊN GỌI NICK NAME CHO TỪNG THỨ QUANH TA: sếp, m10, dtCuaTui,  cái bút bên tay trái, cái xe của tui, bạn sinh viên Tèo
+
+* CÔNG THỨC ĐỂ MÔ TẢ 1 DỮ LIỆU/1 VALUE THUỘC NHÓM NÀO ĐÓ
+  DATA TYPE 	VARIABLE-NAME 	= 	VALUE
+  int		yob		= 	2003
+  double	vat		= 	0.8
+
+  Singer	sếp		=	{Nick = "Sơn Tùng MTP", Fullname = "NTT" ...}
+  Player	m10		=	{Number: 10, Name: Leonardo Messi, Yob: 1994...}
+  Singer	sếp		=	new Singer(...) {...};
+
+=========================================================================
+JSON - JavaScript Object Notation
+       J   S      O      N       : dùng ngôn ngữ JavaScript, cách mà JavaScript biểu diễn thông tin của 1 đối tượng
+
+{"ID": "SE173336", "Name": "Nguyễn Văn Hiếu", "Dob": 2003, "City": "TP.HCM"}
+
+
+=========================================================================
+
+
+
+III - DELEGATE (MIND SHIFT)
+1. MIND SHIFT #1: GENERIC -> PASS A DATA TYPE AS A PARAMETER: DATA TYPE LÀ 1 THAM SỐ ĐỂ TRUYỀN VÀO CLASS/HÀM
+   void F(int x)
+   xài F(5) F(10)
+   
+   void Add(Student s)
+   xài Add(new Student(...) {...})
+
+   void Add(Lecturer s)
+   xài Add(new Lecturer(...) {...})
+
+   void Add(<T> x)	//data type nào, sau đó là object/value gì
+		Student new Student()
+		Lecture new Lecturer()
+
+   Add(<Student> new Student(){})
+
+2. MIND SHIFT #2: DELEGATE -> PASS A METHOD AS A PARAMETER: TRUYỀN 1 HÀM VÀO 1 HÀM KHÁC
+							    HÀM LÀ 1 THAM SỐ ĐỂ TRUYỀN VÀO HÀM KHÁC
+DATA-TYPE VAR = VALUE TÊN GỌI CHO 1 VALUE THUỘC VỀ DATA TYPE
+  int	  yob = 2003;
+Student	  s   = new Student(...) {...};
+
+VALUE: 1 2 3 -273 1000 24.000.000 ...
+VALUE: {...} {...} {...}
+
+VALUE: NHÌN TRONG CODE TA THẤY CÓ RẤT NHIỀU HÀM/METHOD
+
+       void SayHello() {...}    f
+       void SayWelcome() {...}  ff
+       void F1() {...}
+       -----------------------------------> X: TÊN GỌI CHƯA ĐỦ ĐỂ PHÂN BIỆT NHÓM KHÁC
+       X LÀ NHÓM HÀM MÀ KO VÀO KO RA - DÀI QUÁ NHƯNG ĐỦ NGỮ NGHĨA
+
+       C#: delegate void X(); //viết dài hơn để bổ nghĩa cho X
+	   X LÀ TÊN GỌI NHÓM HÀM KO VÀO KO RA
+	X 	f = ???? //khai báo tên gọi cho 1 hàm thuộc nhóm X, X là nhóm hàm ko vào ko ra
+	int	x = 2003
+	Student s = new Student(...)
+
+
+       void ComputePower(int x) {... tính bình phương và in ra kq}
+       void ComputeDiskArea(int radius) {... tính diện tích hình tròn}
+       void F2(int a) {...}
+       -----------------------------------> Y: TÊN GỌI CHƯA ĐỦ ĐỂ PHÂN BIỆT NHÓM KHÁC
+       Y LÀ NHÓM HÀM MÀ CÓ VÀO KO RA
+       C#: delegate void Y(int); //viết dài hơn để bổ nghĩa cho X
+	   Y LÀ TÊN GỌI NHÓM HÀM CÓ VÀO KO RA
+   
+       int ComputeSquareRoot(int x) {... tính căn bật 2 và trả về}
+       int ComputePower(int x) {... tính mũ 2 và trả về}
+       int F3(int n) {...}
+       -----------------------------------> Z
+       Z LÀ NHÓM HÀM MÀ CÓ VÀO CÓ RA
+       C#: delegate int Z(int); //viết dài hơn để bổ nghĩa cho X
+	   Z LÀ TÊN GỌI NHÓM HÀM CÓ VÀO CÓ RA
+
+       int F4() {...}
+       int F5() {...}
+       int F6() {...}
+       -----------------------------------> ZZ
+       ZZ LÀ NHÓM HÀM MÀ KO VÀO CÓ RA
+       C#: delegate int ZZ(); //viết dài hơn để bổ nghĩa cho X
+	   ZZ LÀ TÊN GỌI NHÓM HÀM KO VÀO CÓ RA

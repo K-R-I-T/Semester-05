@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\bin\Debug\net6.0\StudentManagerV4.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\bin\Debug\net6.0\StudentManagerV4.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\bin\Debug\net6.0\StudentManagerV4.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\bin\Debug\net6.0\StudentManagerV4.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\bin\Debug\net6.0\StudentManagerV4.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\refint\StudentManagerV4.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\StudentManagerV4.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session03-OOP\SchoolManager\StudentManagerV4\obj\Debug\net6.0\ref\StudentManagerV4.dll

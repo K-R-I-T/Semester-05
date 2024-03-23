@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEE1AEA-9780-46C9-8E44-6BD4F29268B6}|Zodiac\\Zodiac.csproj|c:\\users\\admin\\documents\\github\\semester-05\\prn211\\code\\session07-gui\\yourfate\\zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEE1AEA-9780-46C9-8E44-6BD4F29268B6}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEE1AEA-9780-46C9-8E44-6BD4F29268B6}|Zodiac\\Zodiac.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEE1AEA-9780-46C9-8E44-6BD4F29268B6}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEE1AEA-9780-46C9-8E44-6BD4F29268B6}|Zodiac\\Zodiac.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\zodiac\\zodiacmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEE1AEA-9780-46C9-8E44-6BD4F29268B6}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D9A807-094A-47AC-9887-013E3E2109AA}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\semester-05\\prn211\\code\\session07-gui\\yourfate\\services\\zodiaccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D9A807-094A-47AC-9887-013E3E2109AA}|Services\\Services.csproj|solutionrelative:services\\zodiaccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZodiacManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Zodiac\\ZodiacManager.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Zodiac\\ZodiacManager.cs",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADgv0wAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:10:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZodiacCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Services\\ZodiacCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\ZodiacCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Services\\ZodiacCalculator.cs",
+              "RelativeToolTip": "Services\\ZodiacCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:49:06.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZodiacManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Zodiac\\ZodiacManager.Designer.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Zodiac\\ZodiacManager.Designer.cs",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:24:46.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZodiacManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Zodiac\\ZodiacManager.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session07-GUI\\YourFate\\Zodiac\\ZodiacManager.cs [Design]",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:41:12.015Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

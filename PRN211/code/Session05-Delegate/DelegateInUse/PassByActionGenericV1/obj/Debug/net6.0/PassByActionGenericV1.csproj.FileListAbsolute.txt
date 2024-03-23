@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\bin\Debug\net6.0\PassByActionGenericV1.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\bin\Debug\net6.0\PassByActionGenericV1.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\bin\Debug\net6.0\PassByActionGenericV1.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\bin\Debug\net6.0\PassByActionGenericV1.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\bin\Debug\net6.0\PassByActionGenericV1.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\refint\PassByActionGenericV1.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\PassByActionGenericV1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionGenericV1\obj\Debug\net6.0\ref\PassByActionGenericV1.dll

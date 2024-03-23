@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\bin\Debug\net6.0\DelegateReviewV3.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\bin\Debug\net6.0\DelegateReviewV3.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\bin\Debug\net6.0\DelegateReviewV3.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\bin\Debug\net6.0\DelegateReviewV3.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\bin\Debug\net6.0\DelegateReviewV3.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\refint\DelegateReviewV3.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\DelegateReviewV3.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInsideOut\DelegateReviewV3\obj\Debug\net6.0\ref\DelegateReviewV3.dll

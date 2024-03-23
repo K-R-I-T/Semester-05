@@ -1,0 +1,90 @@
+I. FORM: BIỂU MẪU, CỬA SỔ, HCN CÓ MẶT NỀN
+
+- LÀ 1 CLASS CHA CÓ SẴN TRONG SDK, NÓ LÀ 1 CLASS DÙNG ĐỂ BIỂU DIỄN 1 HCN MÀ CÓ THỂ RENDER VÀ XUẤT HIỆN TRÊN DESKTOP
+- 1 CỬA SỔ TRONG APP CỦA TA LÀ 1 OBJECT THUỘC CLASS CHA FORM
+- TUY NHIÊN TA KO DÙNG TRỰC TIẾP CLASS NÀY MÀ TẠO CLASS KẾ THỪA CLASS FORM NÀY, ĐỂ TA CÓ CHỖ ĐỘ THÊM NHIỀU THỨ TỪ CLASS GỐC
+
+* TRONG PROJECT TÊN LÀ WINDOWS FORMS (VIẾT TẮT TRÊN MẠNG LÀ WINFORMS) TA SẼ THẤY CÓ 1 CLASS LÀ CON CỦA CLASS FORM, VÍ DỤ:
+
+public partial class Form1 : Form
+{
+
+}
+
+public partial class ZOdiacGUI : Form
+{
+	//ta sẽ viết code bên trong class Con này, ứng với việc sau này cửa sổ đc render ra sẽ hoạt động theo cách ta code!!!
+}
+
+* MỘT CLASS LÀ 1 CÁI KHUÔN, TEMPLATE, BẢN THIẾT KẾ DÙNG ĐỂ CLONE RA NHỮNG OBJECT TƯƠNG ỨNG
+Student s = new Student(...) {...}
+	    new ZodiacGUI()
+	    SẼ SHOW/RENDER RA DESKTOP CỬA SỔ HCN CÓ MẶT NỀN
+
+>>>> LẦN ĐẦU TIÊN TRÁI THANH LONG... LẦN ĐẦU TIÊN 1 OBJECT ĐC NEW TRONG RAM XUẤT HIỆN TRÊN DESKTOP - PHẦN RENDER MICROSOFT WINDOWS  LÀM GIÙM CHO MÌNH!!!
+
+* MỘT CLASS SẼ CHỨA TRONG NÓ CÁC
+				ĐẶC TÍNH: _backing fields, Properties { get; set; }
+				HÀNH VI: Hàm(), Methods()
+
+* XÉT TƯƠN QUAN GIỮA WEB PAGE VÀ WINFORMS THÌ TA CÓ
+<html>				partial classs ZodiacGUI/Form1 : Form
+				{
+<h5>Hello C#</h5>		  Label lblHello = new Label("Hello C#");
+
+</html>				}
+
+
+<tag> TAG...			Label, PictureBox, Button... GỌI LÀ CONTROL (COMPONENT)
+	WEB ELEMENT		> NHỮNG CLASS CÓ SẴN TỪ .NET SDK VÀ WINDOWS OS
+DOM - DOCUMENT OBJECT MODEL
+(SELENIUM YOUTUBE.COM/@GIAOLANG)
+
+* HTML RENDER ĐẸP		* FORM ĐẸP LÚC TA RUN/DESIGN TRONG VS
+* F12 ĐỂ NHÌN  SOURCE HTML	* .DESIGNER - DÙNG F4 ĐỂ SHOW CỬA SỔ TINH CHỈNH, SET PROPERTY
+
+* JS				* CODE ĐỂ XỬ LÍ HÀNH ĐỘNG USER (F7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

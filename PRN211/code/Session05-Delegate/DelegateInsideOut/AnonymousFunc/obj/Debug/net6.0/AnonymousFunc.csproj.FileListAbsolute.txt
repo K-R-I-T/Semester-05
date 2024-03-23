@@ -1,0 +1,14 @@
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\bin\Debug\net6.0\AnonymousFunc.exe
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\bin\Debug\net6.0\AnonymousFunc.deps.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\bin\Debug\net6.0\AnonymousFunc.runtimeconfig.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\bin\Debug\net6.0\AnonymousFunc.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\bin\Debug\net6.0\AnonymousFunc.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.AssemblyInfoInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.AssemblyInfo.cs
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.csproj.CoreCompileInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\refint\AnonymousFunc.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\AnonymousFunc.genruntimeconfig.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\AnonymousFunc\obj\Debug\net6.0\ref\AnonymousFunc.dll

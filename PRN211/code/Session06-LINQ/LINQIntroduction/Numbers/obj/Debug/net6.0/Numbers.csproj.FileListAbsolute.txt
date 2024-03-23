@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net6.0\ref\Numbers.dll

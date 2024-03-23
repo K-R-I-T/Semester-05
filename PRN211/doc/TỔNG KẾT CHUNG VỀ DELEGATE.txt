@@ -1,0 +1,141 @@
+TỔNG KẾT CHUNG VỀ DELEGATE
+v. CÁC BƯỚC ĐỂ CHƠI VỚI DELEGATE
+* DELEGATE LÀ 1 CLASS ĐẶC BIẾT CHỈ CHỨA CÁC TÊN HÀM
+  NÓ LÀ NICK NAME CỦA 1 VÀI HÀM
+
+  NÓ LÀ DẠNG LUẬT SƯ = THÂN CHỦ, TUI ĐẠI DIỆN CHO ÔNG. TUI NÓI CŨNG LÀ ÔNG NÓI
+
+1. TẠO RA DELEGATE TYPE, TÊN NHÓM HÀM, TẠO RA STYLE NHÓM HÀM
+
+* CÚ PHÁP:
+     delegate DATA-TYPE-TRẢ-VỀ TÊN-NHÓM-HÀM(CÁC-THAM-SỐ-ĐẦU-VÀO-CỦA-HÀM)
+* VÍ DỤ:
+     public delegate void F();
+     delegate int F(int x);
+     internal double F(double a, double b);
+
+2. KHAI BÁO BIẾN ĐỂ TRỎ ĐẾN 1 HÀM NÀO ĐÓ
+* đặt thêm nick name cho 1 hàm nào đó
+* ta dự kiến nói về 1 hàm nào đó, và cho hàm đó thêm 1 cái tên, 1 nick
+  F	f1		= ??????;
+  F	f2		= ??????;
+
+2.1 TRỎ ĐẾN HÀM CỤ THỂ
+  F	f1		= TellHer();
+  F	f2		= tên-1-hàm-nào-đó-đã-có-sẵn;
+	//1 HÀM CÓ 2 TÊN GỌI
+
+2.2 TRỎ ĐẾN HÀM VÔ DANH
+  F	f1		= delegate(đầu-vào-của-hàm) {thân-hàm-gồm-nhiều-dòng-code};
+ 
+  F	f1		= delegate(đầu-vào-của-hàm) 
+			  {
+				thân-hàm-gồm-nhiều-dòng-code
+			  };    //VIP lệnh quan trọng
+	f1 là tên cho hàm vô danh, lấy đỡ f1 làm tên cho cái hàm có code ngay ở trên nhưng ko có tên hàm
+	
+
+2.3 TRỎ ĐẾN HÀM VÔ DANH DÙNG LAMBDA EXPRESSION - TỐI GIẢN HÀM VÔ DANH
+						 RÚT GỌN TỐI THIỂU, CHỈ CÒN DÂY NỊT
+  F	f1		= (đầu-vào-của-hàm) =>
+			   {
+				thân-hàm-gồm-nhiều-dòng-code
+			   };    //VIP lệnh quan trọng
+
+3. RUN HÀM
+f();
+f.Invoke();
+
+//1 hàm có thể gọi trực tiếp gọi qua nick-name, tên luật sư - nhận ủy quyền
+
+4. QUY TẮC VIẾT BIỂU THỨC LAMBDA - HÀM VÔ DANH - HÀM KO CÓ TÊN
+  () => {THÂN HÀM}
+
+  () =>
+  {
+	THÂN HÀM
+  }
+
+4.1 RÚT GỌN CHO THAM SỐ HÀN () =>
+
+- NẾU HÀM KO CÓ ĐẦU VÀO () =>
+- NẾU HÀM CHỈ CÓ 1 ĐẦU VÀO
+			(int x) =>
+			(x) =>
+			x => ƯA THÍCH NHẤT!!!
+
+- NẾU HÀM CÓ NHIỀU ĐẦU VÀO (2 TRỞ LÊN)
+			(int x, int y) =>
+			(x, y) =>	ƯA THÍCH HƠN, KO ĐC BỎ NGOẶC TRÒN
+
+4.2 RÚT GỌN CHO THÂN HÀM => {...THÂN HÀM}
+- NẾU THÂN HÀM CHỈ CÓ 1 LỆNH, ĐƯỢC QUYỀN XÓA {}, XÓA LUÔN RETURN
+- NẾU THÂN HÀM CÓ NHIỀU LỆNH, VIẾT NHƯ HÀM BÌNH THƯỜNG {...RETURN NẾU CÓ}
+
+----------
+5. KHUYÊN DÙNG CÁC DELEGATE CÓ SẴN  ĐƯỢC CUNG CẤP BỞI .NET SDK THAY VÌ TỰ TẠO RA DELEGATE TYPE RIÊNG CỦA MÌNH
+
+===================================================================================================
+TỔNG KẾT NHANH VỀ DELEGATE
+1. PHÂN LOẠI DELEGATE - BUILTIN DELEGATE
+* CÓ 3 LOẠI DELEGATE CÓ SẴN CUNG CẤP BỞI .NET SDK:
+	ACTION, ACTION<>	HÀM TRẢ VÈ VOID, CÓ THỂ CÓ ĐẦU VÀO( (16) HOẶC KO ĐẦU VÀO(17)
+	FUNC<>			HÀM NHẬN VÀO TỐI ĐA 16 THAM SỐ, TRẢ VỀ GIÁ TRỊ		(17)
+	PREDICATE<>		CHÍNH LÀ FUNC TRẢ VỀ BOOL ĐÚNG SAI, CHỈ NHẬN VÀO DUY NHẤT 1 ĐẦU VÀO
+
+2. SỬ DỤNG DELEGATE
+- BƯỚC 1: KHAI BÁO BIẾN LUẬT SƯ DỰ ĐỊNH TRỎ VÀO HÀM THÂN CHỦ NÀO ĐÓ NGOÀI KIA
+- BƯỚC 2: GÁN LUẬT SƯ = THÂN CHỦ NÀO ĐÓ;
+- BƯỚC 3: RUN LUẬT SƯ, RUN NICKNAME, CHẠY HÀM QUA NICK NAME
+
+3. HÀM ĐC GÁN VÀO BIẾN LUẬT SƯ CÓ THỂ XÀI NHỮNG CÁCH SAU:
+- CÁCH 1 - DÙNG HÀM TRUYỀN THỐNG
+  Action f = HÀM-VOID-NÀO-ĐÓ-CÓ-SẴN;
+  Action f = delegate(...) {...code hàm vô danh nào đó};		(*)
+
+  Action<...> f = delegate(...) {...code hàm vô danh nào đó};		(*)
+  
+  Action<...> f = (...) => {...code hàm vô danh nào đó - xài biểu thức Lambda}; (*)
+
+  Thay Action bằng Action<> Func<> Delegate<> và chỉnh tham số hàm ở (*) cho phù hợp
+
+4. RUN HÀM
+  f();
+  f.Invoke();
+  f(...); //nếu trỏ hàm có tham số!!!
+
+===============================================================================================
+VII. DELEGATE IN USE, IN ACTION - CÁCH DELEGATE ĐC ỨNG DỤNG TRONG THỰC TẾ
+1. TRUYỀN THÁI Y - TRUYỀN DELEGATE VÀO TRONG 1 HÀM KHÁC (CÂU CHUYỆN 2 HÀM)
+
+void HamTraiBao(int n);
+void HamTraiBao(Action f)	f = hàm-nào-đó-có-sẵn-hoặc-on-the-go-code-ngay-lệnh-gán   X () {}
+				  = delegate () {} hoặc = () => {}
+					anonymous	   lambda
+{
+	HÀM TRAI BAO CỨ FOR DO WHILE THOẢI CON GÀ MÁI...
+	TAO LÀM GÌ VỚI F HERE
+	GỌI NÓ VÌ NÓ LÀ HÀM BÊN NGOÀI ĐƯA VÀO - HÀM THÌ ĐC QUYỀN RUN()
+	f();	//f.Invoke();	//call back, tao gọi mày nè!!!
+				//lập trình hàm - functional programming
+				//hàm mình chơi láng với các hàm bên ngoài
+				//gọi hàm bên ngoài, bên ngoài làm gì ai biết???
+				//f có logic xử lí riêng, được đưa vào trong hàm mình gọi -> inject - chích
+				//dependency injection
+				//tao chơi với mọi thứ bên ngoài, loose coupling, flexible
+}
+***** TA THIẾT KẾ 1 CÁI HÀM HUB, HÀM ĐẦU MỐI, HÀM STYLE DoOnDemand(yêu cầu bên ngoài đưa vào)
+CUNG CẤP DỊCH VỤ LÀM THEO YÊU CẦU CỦA AI ĐÓ ĐƯA ĐẾN - HÀM (CÓ CODE) ĐƯA VÀO HÀM CHÍNH CỦA TA
+NHẬN THẦU THEO YÊU CẦU, VẠN SỰ TÙY DUYÊN, TA PHÓ MẶC CHO CODE BÊN NGOÀI ĐƯA VÀO!!!
+
+		[CODE BÊN NGOÀI XÀI DATA BÊN TRONG CỦA TA!!!]
+
+2. TRUYỀN HÀM CÓ ĐẦU VÀO VÀO 1 HÀM KHÁC
+void DoOnDemand(Action<int> f)    ==================   void F(?)   void F(int x)   F(5)   F(68)
+{
+   //gọi f thế nào
+   f(); //ăn đòn!!!, đưa tham số vào cho thằng f
+   f(5);
+}
+
+double result = Math.Sqrt(25);

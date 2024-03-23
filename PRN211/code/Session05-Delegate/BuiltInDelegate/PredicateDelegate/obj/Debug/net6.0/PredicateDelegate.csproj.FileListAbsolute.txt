@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\bin\Debug\net6.0\PredicateDelegate.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\bin\Debug\net6.0\PredicateDelegate.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\bin\Debug\net6.0\PredicateDelegate.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\bin\Debug\net6.0\PredicateDelegate.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\bin\Debug\net6.0\PredicateDelegate.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\refint\PredicateDelegate.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\PredicateDelegate.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\PredicateDelegate\obj\Debug\net6.0\ref\PredicateDelegate.dll

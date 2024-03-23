@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\bin\Debug\net6.0\Zodiac.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\bin\Debug\net6.0\Zodiac.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\bin\Debug\net6.0\Zodiac.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\bin\Debug\net6.0\Zodiac.xml
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\refint\Zodiac.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.xml
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\Zodiac.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\Zodiac\obj\Debug\net6.0\ref\Zodiac.dll

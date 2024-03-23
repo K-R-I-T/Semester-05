@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\bin\Debug\net6.0\BMICalculator.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\bin\Debug\net6.0\BMICalculator.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\bin\Debug\net6.0\BMICalculator.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\bin\Debug\net6.0\BMICalculator.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\bin\Debug\net6.0\BMICalculator.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\refint\BMICalculator.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\BMICalculator.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session02-Language\HeathAndFate\BMICalculator\obj\Debug\net6.0\ref\BMICalculator.dll

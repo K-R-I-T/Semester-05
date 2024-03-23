@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BMICalculator">
+      <HintPath>..\BMICalculator\bin\Debug\net6.0\BMICalculator.dll</HintPath>
+    </Reference>
+    <Reference Include="Zodiac">
+      <HintPath>..\Zodiac\bin\Debug\net6.0\Zodiac.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\bin\Debug\net6.0\LambdaExpression.exe
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\bin\Debug\net6.0\LambdaExpression.deps.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\bin\Debug\net6.0\LambdaExpression.runtimeconfig.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\bin\Debug\net6.0\LambdaExpression.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\bin\Debug\net6.0\LambdaExpression.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfo.cs
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\refint\LambdaExpression.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\LambdaExpression.genruntimeconfig.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression.dll

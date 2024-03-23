@@ -1,0 +1,14 @@
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\bin\Debug\net6.0\LoveStory.exe
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\bin\Debug\net6.0\LoveStory.deps.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\bin\Debug\net6.0\LoveStory.runtimeconfig.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\bin\Debug\net6.0\LoveStory.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\bin\Debug\net6.0\LoveStory.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.AssemblyInfoInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.AssemblyInfo.cs
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.csproj.CoreCompileInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\refint\LoveStory.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\LoveStory.genruntimeconfig.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\LoveStory\obj\Debug\net6.0\ref\LoveStory.dll

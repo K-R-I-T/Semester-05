@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BMICalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BMICalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BMICalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMICalculator/1.0.0": {
+      "type": "project",
+      "path": "../BMICalculator/BMICalculator.csproj",
+      "msbuildProject": "../BMICalculator/BMICalculator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BMICalculator >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session02-Language\\HeathAndFate\\Math\\Math.csproj",
+      "projectName": "Math",
+      "projectPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session02-Language\\HeathAndFate\\Math\\Math.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session02-Language\\HeathAndFate\\Math\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session02-Language\\HeathAndFate\\BMICalculator\\BMICalculator.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session02-Language\\HeathAndFate\\BMICalculator\\BMICalculator.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

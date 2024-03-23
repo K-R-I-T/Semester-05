@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\bin\Debug\net6.0\FuncDelegate.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\bin\Debug\net6.0\FuncDelegate.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\bin\Debug\net6.0\FuncDelegate.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\bin\Debug\net6.0\FuncDelegate.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\bin\Debug\net6.0\FuncDelegate.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\refint\FuncDelegate.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\FuncDelegate.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\BuiltInDelegate\FuncDelegate\obj\Debug\net6.0\ref\FuncDelegate.dll

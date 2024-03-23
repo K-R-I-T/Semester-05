@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\bin\Debug\net6.0\PassByFunc.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\bin\Debug\net6.0\PassByFunc.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\bin\Debug\net6.0\PassByFunc.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\bin\Debug\net6.0\PassByFunc.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\bin\Debug\net6.0\PassByFunc.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\refint\PassByFunc.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\PassByFunc.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Subjects\PRN211\code\Session05-Delegate\DelegateInUse\PassByActionV2\obj\Debug\net6.0\ref\PassByFunc.dll

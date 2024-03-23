@@ -1,0 +1,14 @@
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\bin\Debug\net6.0\DelegateIntro.exe
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\bin\Debug\net6.0\DelegateIntro.deps.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\bin\Debug\net6.0\DelegateIntro.runtimeconfig.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\bin\Debug\net6.0\DelegateIntro.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\bin\Debug\net6.0\DelegateIntro.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.AssemblyInfoInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.AssemblyInfo.cs
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.csproj.CoreCompileInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\refint\DelegateIntro.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\DelegateIntro.genruntimeconfig.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\CSharp.Live\Session05-Delegate\DelegateInsideOut\DelegateIntro\obj\Debug\net6.0\ref\DelegateIntro.dll
