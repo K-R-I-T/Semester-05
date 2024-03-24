@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB256AEB-5D18-4109-80CF-4F08B5366F3A}|BookManagement_NguyenHoangDat\\BookManagement_NguyenHoangDat.csproj|c:\\users\\admin\\documents\\github\\semester-05\\prn211\\code\\session8-pe\\pe_prn211_sp24_practicaltest_nguyenhoangdat\\bookmanagement_nguyenhoangdat\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB256AEB-5D18-4109-80CF-4F08B5366F3A}|BookManagement_NguyenHoangDat\\BookManagement_NguyenHoangDat.csproj|solutionrelative:bookmanagement_nguyenhoangdat\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB256AEB-5D18-4109-80CF-4F08B5366F3A}|BookManagement_NguyenHoangDat\\BookManagement_NguyenHoangDat.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\bookmanagement_nguyenhoangdat\\bookmanagementmainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB256AEB-5D18-4109-80CF-4F08B5366F3A}|BookManagement_NguyenHoangDat\\BookManagement_NguyenHoangDat.csproj|solutionrelative:bookmanagement_nguyenhoangdat\\bookmanagementmainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB256AEB-5D18-4109-80CF-4F08B5366F3A}|BookManagement_NguyenHoangDat\\BookManagement_NguyenHoangDat.csproj|c:\\users\\admin\\documents\\github\\semester-05\\prn211\\code\\session8-pe\\pe_prn211_sp24_practicaltest_nguyenhoangdat\\bookmanagement_nguyenhoangdat\\bookmanagementmainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB256AEB-5D18-4109-80CF-4F08B5366F3A}|BookManagement_NguyenHoangDat\\BookManagement_NguyenHoangDat.csproj|solutionrelative:bookmanagement_nguyenhoangdat\\bookmanagementmainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookManagementMainUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\BookManagement_NguyenHoangDat\\BookManagementMainUI.cs",
+              "RelativeDocumentMoniker": "BookManagement_NguyenHoangDat\\BookManagementMainUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\BookManagement_NguyenHoangDat\\BookManagementMainUI.cs",
+              "RelativeToolTip": "BookManagement_NguyenHoangDat\\BookManagementMainUI.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA7wEIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:41:36.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\BookManagement_NguyenHoangDat\\BookDetailForm.cs",
+              "RelativeDocumentMoniker": "BookManagement_NguyenHoangDat\\BookDetailForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\BookManagement_NguyenHoangDat\\BookDetailForm.cs",
+              "RelativeToolTip": "BookManagement_NguyenHoangDat\\BookDetailForm.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwDoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:23:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManagementMainUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\BookManagement_NguyenHoangDat\\BookManagementMainUI.cs",
+              "RelativeDocumentMoniker": "BookManagement_NguyenHoangDat\\BookManagementMainUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session8-PE\\PE_PRN211_SP24_PracticalTest_NguyenHoangDat\\BookManagement_NguyenHoangDat\\BookManagementMainUI.cs [Design]",
+              "RelativeToolTip": "BookManagement_NguyenHoangDat\\BookManagementMainUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:21:05.261Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
