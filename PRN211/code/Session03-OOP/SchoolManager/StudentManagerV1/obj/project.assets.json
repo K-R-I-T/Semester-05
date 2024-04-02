@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session03-OOP\\SchoolManager\\StudentManagerV1\\StudentManagerV1.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session03-OOP\\SchoolManager\\StudentManagerV1\\StudentManagerV1.csproj",
       "projectName": "StudentManagerV1",
-      "projectPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session03-OOP\\SchoolManager\\StudentManagerV1\\StudentManagerV1.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session03-OOP\\SchoolManager\\StudentManagerV1\\StudentManagerV1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session03-OOP\\SchoolManager\\StudentManagerV1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session03-OOP\\SchoolManager\\StudentManagerV1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -39,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -60,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

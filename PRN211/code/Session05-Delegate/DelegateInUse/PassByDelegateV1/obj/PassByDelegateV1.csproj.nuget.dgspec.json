@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj",
         "projectName": "PassByDelegateV1",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\PassByDelegateV1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Đại học FPT- FPT University\\Subjects\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\DelegateInUse\\PassByDelegateV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Subjects\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31474959-F316-43EA-B057-EC8AB257AAC1}|Students\\Students.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\subjects\\prn211\\code\\session06-linq\\linqintroduction\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31474959-F316-43EA-B057-EC8AB257AAC1}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C248D58D-1713-4E45-8F4D-971CD05CCC67}|Numbers\\Numbers.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C248D58D-1713-4E45-8F4D-971CD05CCC67}|Numbers\\Numbers.csproj|solutionrelative:numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C248D58D-1713-4E45-8F4D-971CD05CCC67}|Numbers\\Numbers.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\subjects\\prn211\\code\\session06-linq\\linqintroduction\\numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C248D58D-1713-4E45-8F4D-971CD05CCC67}|Numbers\\Numbers.csproj|solutionrelative:numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31474959-F316-43EA-B057-EC8AB257AAC1}|Students\\Students.csproj|c:\\users\\admin\\documents\\github\\semester-05\\prn211\\code\\session06-linq\\linqintroduction\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31474959-F316-43EA-B057-EC8AB257AAC1}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,24 +30,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Subjects\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Students\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Students\\Program.cs",
               "RelativeDocumentMoniker": "Students\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Subjects\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Students\\Program.cs",
               "RelativeToolTip": "Students\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T11:29:57.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Subjects\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Numbers\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Numbers\\Program.cs",
               "RelativeDocumentMoniker": "Numbers\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Subjects\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session06-LINQ\\LINQIntroduction\\Numbers\\Program.cs",
               "RelativeToolTip": "Numbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

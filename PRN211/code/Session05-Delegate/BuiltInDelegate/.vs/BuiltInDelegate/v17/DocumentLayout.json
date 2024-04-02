@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF50FFC-8739-437C-A109-890F309749AD}|PredicateDelegate\\PredicateDelegate.csproj|c:\\users\\admin\\documents\\github\\semester-05\\prn211\\code\\session05-delegate\\builtindelegate\\predicatedelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF50FFC-8739-437C-A109-890F309749AD}|PredicateDelegate\\PredicateDelegate.csproj|solutionrelative:predicatedelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86E1B78-9BEC-402B-80E6-7D170AE9D5D1}|FuncDelegate\\FuncDelegate.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\funcdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86E1B78-9BEC-402B-80E6-7D170AE9D5D1}|FuncDelegate\\FuncDelegate.csproj|solutionrelative:funcdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ED467B-6656-453C-B4B5-A58A9758A4FB}|ActionDelegate\\ActionDelegate.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\actiondelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9ED467B-6656-453C-B4B5-A58A9758A4FB}|ActionDelegate\\ActionDelegate.csproj|solutionrelative:actiondelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEDBA45-D63C-493D-A2B2-63E9678B59F2}|ActionGenericDelegate\\ActionGenericDelegate.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\actiongenericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EEDBA45-D63C-493D-A2B2-63E9678B59F2}|ActionGenericDelegate\\ActionGenericDelegate.csproj|solutionrelative:actiongenericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\PredicateDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "PredicateDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\PredicateDelegate\\Program.cs",
+              "RelativeToolTip": "PredicateDelegate\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:42:45.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\FuncDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "FuncDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\FuncDelegate\\Program.cs",
+              "RelativeToolTip": "FuncDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:42:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\ActionGenericDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "ActionGenericDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\ActionGenericDelegate\\Program.cs",
+              "RelativeToolTip": "ActionGenericDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:42:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\ActionDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "ActionDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Semester-05\\PRN211\\code\\Session05-Delegate\\BuiltInDelegate\\ActionDelegate\\Program.cs",
+              "RelativeToolTip": "ActionDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:42:45.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
